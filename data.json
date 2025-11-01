@@ -1,0 +1,28 @@
+{
+    "Emp" : {
+        "ABC": {
+            "Phone_Number": 1234567890,
+            "Address": "2",
+            "Role": "3",
+            "Branch": "4",
+            "Country": "5",
+            "City": "6"
+        },
+        "DEF": {
+            "Phone_Number": 7867867861212,
+            "Address": "11",
+            "Role": "22",
+            "Branch": "33",
+            "Country": "44",
+            "City": "55"
+        },
+        "GHI": {
+            "Phone_Number": 9119119119111,
+            "Address": "111",
+            "Role": "222",
+            "Branch": "333",
+            "Country": "444",
+            "City": "555"
+        }
+    }
+}
